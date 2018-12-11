@@ -1,6 +1,9 @@
 ### sphinx
 ---
+.py
 http://www.sphinx-doc.org/en/master/
+
+http://www.sphinx-doc.org/en/latest/
 
 ```
 apt-get install pytho3-sphinx
