@@ -5,7 +5,7 @@ http://www.sphinx-doc.org/en/master/
 
 http://www.sphinx-doc.org/en/latest/
 
-```
+```sh
 apt-get install pytho3-sphinx
 yum install python-sphinx
 
